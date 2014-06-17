@@ -23,6 +23,8 @@ Modifying
 
 It's easy to experiment with basic HTML5 pages by changing or adding elements. 
 
-The following web color chart may be helpful:
+The following web color charts may be helpful:
 
-http://www.webdevfoundations.net/color/
+* At-a-glance: http://www.webdevfoundations.net/color/
+
+* Pick in series:  http://html-color-codes.info/
